@@ -8,8 +8,8 @@
 - 🎓 Pursuing **B.Tech in Computer Science and Design**  
 - 💼 Skilled in **Frontend (HTML, CSS, JavaScript, React, Bootstrap, Tailwind)**  
 - 🖥️ Experienced in **Backend (PHP, Node.js, Express.js)**  
-- 🗄️ Database expertise: **SQL, MongoDB**  
-- 🔧 Strong foundation in **C, C++, Java, Python**  
+- 🗄️ Database expertise (**SQL, MongoDB**)  
+- 🔧 Strong foundation in (**C, C++, Java, Python**)  
 - 🌱 Currently learning and exploring **MERN stack & system design**  
 - 🤝 Open to collaborating on impactful projects and open-source contributions  
 - ✨ I enjoy solving real-world problems through **clean and efficient code**  
