@@ -19,20 +19,35 @@
 ### 🛠️ Tech Stack  
 
 **Frontend:**  
-HTML | CSS | JavaScript (ES6+) | React.js | Bootstrap
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
 **Backend:**  
-PHP | Node.js | Express.js  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
 
 **Databases:**  
-MySQL | MongoDB  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 **Programming Languages:**  
-C | C++ | Java | Python  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
-**Other Skills & Tools:**  
-Git | GitHub | REST APIs | DBMS
-
+**Other Tools & Skills:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)  
+![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=database&logoColor=white)  
+  
+---
 
 ### 📊 GitHub Stats  
 
@@ -42,7 +57,7 @@ Git | GitHub | REST APIs | DBMS
 ---
 
 ### 📫 Connect with Me  
-- 💼 [LinkedIn](www.linkedin.com/in/sahil-biswas-827337287)   
+- 💼 [LinkedIn](https://www.linkedin.com/in/sahil-biswas-827337287)  
 - 📧 Email: **sahilbiswas890@gmail.com**  
 
 ---
