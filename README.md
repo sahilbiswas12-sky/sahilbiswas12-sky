@@ -5,7 +5,7 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🎓 Pursuing **B.Tech in Computer Science**  
+- 🎓 Pursuing **B.Tech in Computer Science and Design**  
 - 💼 Skilled in **Frontend (HTML, CSS, JavaScript, React, Bootstrap, Tailwind)**  
 - 🖥️ Experienced in **Backend (PHP, Node.js, Express.js)**  
 - 🗄️ Database expertise: **SQL, MongoDB**  
