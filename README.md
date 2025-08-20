@@ -19,7 +19,7 @@
 ### 🛠️ Tech Stack  
 
 **Frontend:**  
-HTML | CSS | JavaScript (ES6+) | React.js | Bootstrap | Tailwind CSS  
+HTML | CSS | JavaScript (ES6+) | React.js | Bootstrap
 
 **Backend:**  
 PHP | Node.js | Express.js  
@@ -31,19 +31,8 @@ MySQL | MongoDB
 C | C++ | Java | Python  
 
 **Other Skills & Tools:**  
-Git | GitHub | REST APIs | DBMS | MS Office  
+Git | GitHub | REST APIs | DBMS
 
----
-
-### 📂 Featured Projects  
-- 🌐 [Personal Portfolio Website](#) – Showcasing my skills & projects  
-- ☁️ [Weather Application](#) – Real-time weather updates with API  
-- 🎵 [Music Player](#) – Minimalist audio player with JavaScript  
-- 📝 [Note-Taking App](#) – Organize thoughts & tasks efficiently  
-- 🧮 [Scientific Calculator](#) – Perform complex computations  
-- 🏠 [PG LIFE Web App](#) – Full-stack platform for PG accommodations  
-
----
 
 ### 📊 GitHub Stats  
 
@@ -53,9 +42,8 @@ Git | GitHub | REST APIs | DBMS | MS Office
 ---
 
 ### 📫 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/sahil-biswas/)  
-- 📷 [Instagram](https://www.instagram.com/mystyle_creation/)  
-- 📧 Email: **sahilbiswas1512@gmail.com**  
+- 💼 [LinkedIn](www.linkedin.com/in/sahil-biswas-827337287)   
+- 📧 Email: **sahilbiswas890@gmail.com**  
 
 ---
 
