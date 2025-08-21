@@ -63,7 +63,7 @@
 
 ### 📫 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sahil-biswas-827337287)  
-- 📧 Email: **sahilbiswas890@gmail.com**  
+- 📧 Email :-  **sahilbiswas890@gmail.com**  
 
 ---
 
