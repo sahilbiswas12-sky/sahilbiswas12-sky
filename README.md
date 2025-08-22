@@ -1,16 +1,24 @@
-## Hi there 👋 I'm Sahil Biswas  
+## Hi there 👋 I'm Sahil Biswas
 
 💻 **Full Stack Web Developer** | **Front-end Developer**| **MERN Stack Practiconer**
 
+[![An image of a counter that shows how many visitors Sahil's GitHub profile has.](https://komarev.com/ghpvc/?username=sahilbiswas12-sky&style=for-the-badge&color=brightgreen)](https://github.com/sahilbiswas12-sky)
+
 ---
 
-### 👨‍💻 About Me  
-- 🎓 Pursuing **B.Tech in Computer Science and Design** - 💼 Skilled in **Frontend (HTML, CSS, JavaScript, React, Bootstrap, Tailwind)** - 🖥️ Experienced in **Backend (PHP, Node.js, Express.js)** - 🗄️ Database expertise (**SQL, MongoDB**)  
-- 🔧 Strong foundation in (**C, C++, Java, Python**)  
-- 🌱 Currently learning and exploring **MERN stack & system design** - 🤝 Open to collaborating on impactful projects and open-source contributions  
-- ✨ I enjoy solving real-world problems through **clean and efficient code** ---
+### 👨‍💻 About Me
+- 🎓 Pursuing **B.Tech in Computer Science and Design**
+- 💼 Skilled in **Frontend (HTML, CSS, JavaScript, React, Bootstrap, Tailwind)**
+- 🖥️ Experienced in **Backend (PHP, Node.js, Express.js)**
+- 🗄️ Database expertise (**SQL, MongoDB**)
+- 🔧 Strong foundation in (**C, C++, Java, Python**)
+- 🌱 Currently learning and exploring **MERN stack & system design**
+- 🤝 Open to collaborating on impactful projects and open-source contributions
+- ✨ I enjoy solving real-world problems through **clean and efficient code**
 
-### 🛠️ Tech Stack  
+---
+
+### 🛠️ Tech Stack
 
 **Frontend :-**
 
@@ -27,28 +35,35 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-**Databases :-** ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+**Databases :-**
+
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-**Programming Languages :-** ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+**Programming Languages :-**
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Other Tools & Skills :-** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Other Tools & Skills :-**
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST-02569B?style=flat-square&logo=rest&logoColor=white)
 ![DBMS](https://img.shields.io/badge/-DBMS-4479A1?style=flat-square&logo=database&logoColor=white)
- 
-  ---
-
-### 📊 GitHub Stats  
-
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilbiswas12-sky&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbiswas12-sky&layout=compact&theme=radical)  
 
 ---
 
-### 📫 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/sahil-biswas-827337287)  
+### 📊 GitHub Stats
+
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilbiswas12-sky&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbiswas12-sky&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahilbiswas12-sky&theme=radical)
+
+---
+
+### 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/sahil-biswas-827337287)
 - 📧 <a href = "mailto: sahilbiswas890@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
