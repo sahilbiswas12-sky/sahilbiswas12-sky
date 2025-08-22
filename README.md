@@ -40,8 +40,8 @@ A sophisticated todo application with secure authentication, comprehensive task 
 
 **Tech Stack:** HTML5, CSS3, JavaScript, LocalStorage, CryptoJS, Chart.js
 
-[![View Project](https://img.shields.io/badge/View-Live_Demo-1abc9c?style=for-the-badge)](https://sahilbiswas12-sky.github.io/momentum-todo-app/)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sahilbiswas12-sky/momentum-todo-app)
+[![View Demo](https://img.shields.io/badge/View-Live_Demo-1abc9c?style=for-the-badge)](https://sahilbiswas12-sky.github.io/Momentum-todo-app/)
+[![GitHub Repository](https://img.shields.io/badge/View-Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/sahilbiswas12-sky/Momentum-todo-app)
 
 ---
 
