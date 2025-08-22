@@ -66,4 +66,4 @@
 
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/sahil-biswas-827337287)
-- 📧 <a href = "mailto: sahilbiswas890@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+-- <a href="mailto:sahilbiswas890@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
