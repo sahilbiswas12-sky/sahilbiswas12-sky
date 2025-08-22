@@ -5,6 +5,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1abc9c&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Front-end+Developer;MERN+Stack+Practitioner;Always+Learning+New+Techs;Solving+Real-World+Problems" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/sahilbiswas12-sky">
+    <img src="https://komarev.com/ghpvc/?username=sahilbiswas12-sky&label=Profile+Views&color=brightgreen&style=flat" alt="Profile Views" />
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -41,7 +47,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 🛠️ Tools & Skills
+### 🛠️ Tools & Concepts
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,rest" />
 </p>
@@ -74,6 +80,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilbiswas12-sky&theme=react-dark&hide_border=true&area=true" />
 </p>
 
+---
+
 ## 📬 Connect with Me
 
 <p align="center">
@@ -84,8 +92,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahilbiswas12-sky&label=Profile+Views&color=brightgreen&style=flat" alt="Profile Views" />
-</p>
-
-⭐️ From [Sahil Biswas](https://github.com/sahilbiswas12-sky)
+<div align="center">
+  <h3>Thanks for visiting!</h3>
+  <img src="https://raw.githubusercontent.com/sahilbiswas12-sky/sahilbiswas12-sky/main/github-snake.svg" alt="github-snake" />
+</div>
