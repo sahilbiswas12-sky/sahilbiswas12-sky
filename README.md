@@ -25,6 +25,26 @@
 
 ---
 
+## 🚀 Projects
+
+### 📋 Momentum - Advanced Todo List Application
+A sophisticated todo application with secure authentication, comprehensive task management, multiple viewing options, and productivity analytics.
+
+**Features:** 
+- 🔐 User authentication with encrypted passwords
+- 📝 Advanced task management with priorities & categories
+- 👁️ Multiple views (List, Board, Calendar, Stats)
+- 🎨 Light/dark theme with responsive design
+- 🔍 Smart filtering, sorting & search functionality
+- 📊 Productivity analytics with Chart.js visualizations
+
+**Tech Stack:** HTML5, CSS3, JavaScript, LocalStorage, CryptoJS, Chart.js
+
+[![View Project](https://img.shields.io/badge/View-Live_Demo-1abc9c?style=for-the-badge)](https://sahilbiswas12-sky.github.io/momentum-todo-app/)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sahilbiswas12-sky/momentum-todo-app)
+
+---
+
 ## ⚡ Tech Stack
 
 ### 🚀 Languages
