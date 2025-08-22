@@ -8,34 +8,40 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Pursuing **B.Tech in Computer Science and Design** - 💼 Skilled in **Frontend (HTML, CSS, JavaScript, React, Bootstrap, Tailwind)** - 🖥️ Experienced in **Backend (PHP, Node.js, Express.js)** - 🗄️ Database expertise (**SQL, MongoDB**)  
-- 🔧 Strong foundation in (**C, C++, Java, Python**)  
-- 🌱 Currently learning and exploring **MERN stack & system design** - 🤝 Open to collaborating on impactful projects and open-source contributions  
-- ✨ I enjoy solving real-world problems through **clean and efficient code** ---
+- 🎓 Pursuing **B.Tech in Computer Science and Design**
+- 💼 Skilled in **Frontend (HTML, CSS, JavaScript, React, Bootstrap, Tailwind)**
+- 🖥️ Experienced in **Backend (PHP, Node.js, Express.js)**
+- 🗄️ Database expertise (**SQL, MongoDB**)
+- 🔧 Strong foundation in (**C, C++, Java, Python**)
+- 🌱 Currently learning and exploring **MERN stack & system design**
+- 🤝 Open to collaborating on impactful projects and open-source contributions
+- ✨ I enjoy solving real-world problems through **clean and efficient code**
 
-## ⚡ Tech Stack  
+---
 
-### 🚀 Languages  
+## ⚡ Tech Stack
+
+### 🚀 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,java,python,c,js,ts,php" />
 </p>
 
-### 🎨 Frontend  
+### 🎨 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" />
 </p>
 
-### ⚙️ Backend  
+### ⚙️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Databases  
+### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 🛠️ Tools & Skills  
+### 🛠️ Tools & Skills
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,rest" />
 </p>
@@ -46,20 +52,20 @@
 
 <div align="center">
 
-### ⚡ GitHub Stats  
+### ⚡ GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=sahilbiswas12-sky&show_icons=true&theme=radical" height="165" />
 
-### 🌐 Most Used Languages  
+### 🌐 Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbiswas12-sky&layout=compact&theme=radical" height="165" />
 
 ---
 
-### 🔥 Contribution Streak  
+### 🔥 Contribution Streak
 <img src="https://streak-stats.demolab.com?user=sahilbiswas12-sky&theme=radical" alt="GitHub Streak" />
 
 ---
 
-### 🏆 GitHub Trophies  
+### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=sahilbiswas12-sky&theme=darkhub&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
 
 </div>
@@ -76,7 +82,7 @@
 
 ---
 
-## 📬 Connect with Me  
+## 📬 Connect with Me
 
 <p align="center">
   <a href="mailto:sahilbiswas890@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -86,7 +92,7 @@
 
 ---
 
-<p align="center"> 
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=sahilbiswas12-sky&label=Profile+Views&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
 
