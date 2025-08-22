@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Biswas</h1>
-<h3 align="center">🚀 Full Stack Web Developer | Front-end Developer| MERN Stack Practitioner</h3>
+<h3 align="center">🚀 Full Stack Web Developer | Front-end Developer | MERN Stack Practitioner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1abc9c&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Front-end+Developer;MERN+Stack+Practitioner;Always+Learning+New+Techs;Solving+Real-World+Problems" alt="Typing SVG" />
