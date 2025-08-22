@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sahil Biswas
 
-💻 **Full Stack Web Developer** | **Front-end Developer**| **MERN Stack Practiconer**
+💻 **Full Stack Web Developer** | **Front-end Developer** | **MERN Stack Practiconer**
 
 [![An image of a counter that shows how many visitors Sahil's GitHub profile has.](https://komarev.com/ghpvc/?username=sahilbiswas12-sky&style=for-the-badge&color=brightgreen)](https://github.com/sahilbiswas12-sky)
 
