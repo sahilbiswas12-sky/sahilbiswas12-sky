@@ -13,7 +13,7 @@
 - 🖥️ Experienced in **Backend (PHP, Node.js, Express.js)**
 - 🗄️ Database expertise (**SQL, MongoDB**)
 - 🔧 Strong foundation in (**C, C++, Java, Python**)
-- 🌱 Currently learning and exploring **MERN stack & system design**
+- 🌱 Currently learning and exploring **MERN stack & System design**
 - 🤝 Open to collaborating on impactful projects and open-source contributions
 - ✨ I enjoy solving real-world problems through **clean and efficient code**
 
