@@ -102,8 +102,6 @@ A smart virtual assistant built using Python and web technologies. Jarvis can au
 
 <img src="https://streak-stats.demolab.com?user=sahilbiswas12-sky&theme=radical" alt="Contribution Streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=sahilbiswas12-sky&theme=darkhub&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-
 </div>
 
 <p align="center">
