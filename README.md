@@ -11,7 +11,8 @@
 </a>
 </p>
 
-👨‍💻 About Me
+<h1👨‍💻 About Me </h1?
+
 🎓 Pursuing B.Tech in Computer Science and Design
 
 💼 Skilled in Frontend (HTML, CSS, JavaScript, React, Bootstrap, Tailwind)
