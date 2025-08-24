@@ -47,16 +47,19 @@ A productivity-focused todo list application with enhanced task management, auth
 
 ### 🤖 Jarvis – Python-based Virtual Assistant
 
-A personal desktop assistant powered by voice commands and automation capabilities.
+A smart virtual assistant built using Python and web technologies. Jarvis can automate tasks, answer queries, and perform various operations through voice commands and scripting.
 
 **Key Features:**
 
 - 🎤 Voice recognition for hands-free operation  
-- 🌐 Real-time data via web scraping  
-- 💻 Automation of desktop tasks (open apps/files)  
-- 🗣️ Conversational replies using NLP  
+- 🌐 Opens browser and searches on Google  
+- ➗ Performs basic math calculations using voice input  
+- 🌍 Opens websites like **Facebook**, **Google**, **Netflix**, etc.   
+- 📄 Provides real-time information via web scraping  
+- 🗣️ Conversational replies powered by NLP
 
-**Tech Stack:** `Python`, `SpeechRecognition`, `pyttsx3`, `Web Scraping`
+**Tech Stack:** `HTML5`, `CSS3`, `JavaScript`, `SpeechRecognition`, `Web Scraping`
+
 
 ---
 
