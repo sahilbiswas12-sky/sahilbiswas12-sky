@@ -11,7 +11,7 @@
 </a>
 </p>
 <br>
-👨‍💻 About Me
+## <strong>👨‍💻 About Me</strong>
 
 🎓 Pursuing B.Tech in Computer Science and Design
 
@@ -30,13 +30,18 @@
 ✨ I enjoy solving real-world problems through clean and efficient code
 
 <br>
-🚀 Projects
+<br>
+---
+<br>
+<br>
 
-📋 Momentum - Advanced Todo List Application
+## <strong>🚀 Projects</strong>
+
+### <strong>📋 Momentum - Advanced Todo List Application</strong>
 
 A sophisticated todo application with secure authentication, comprehensive task management, multiple viewing options, and productivity analytics.
 
-Features:
+**Features:**
 
 🔐 User authentication with encrypted passwords
 
@@ -50,14 +55,15 @@ Features:
 
 📊 Productivity analytics with Chart.js visualizations
 
-Tech Stack: HTML5, CSS3, JavaScript, LocalStorage, CryptoJS, Chart.js
+**Tech Stack:** HTML5, CSS3, JavaScript, LocalStorage, CryptoJS, Chart.js
 
-
-🤖 Jarvis - Virtual Assistant
+<br>
+<br>
+### <strong>🤖 Jarvis - Virtual Assistant</strong>
 
 A Python-based virtual assistant that performs tasks like opening applications, searching the web, telling time, and more, using voice commands.
 
-Features:
+**Features:**
 
 🎤 Voice recognition for hands-free control
 
@@ -67,53 +73,62 @@ Features:
 
 🗣️ Natural language processing for conversational responses
 
-Tech Stack: Python, SpeechRecognition, pyttsx3, Web-scraping libraries
+**Tech Stack:** Python, SpeechRecognition, pyttsx3, Web-scraping libraries
 
+<br>
+<br>
+---
+<br>
+<br>
 
-⚡ Tech Stack
+## <strong>⚡ Tech Stack</strong>
 
-🚀 Languages
+### <strong>🚀 Languages</strong>
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,java,python,c,js,ts,php" />
 </p>
 
-🎨 Frontend
+### <strong>🎨 Frontend</strong>
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" />
 </p>
 
-⚙️ Backend
+### <strong>⚙️ Backend</strong>
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-🗄️ Databases
+### <strong>🗄️ Databases</strong>
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-🛠️ Tools & Concepts
+### <strong>🛠️ Tools & Concepts</strong>
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,rest" />
 </p>
 
+<br>
+<br>
+---
+<br>
+<br>
 
-📊 GitHub Stats & Activity
+## <strong>📊 GitHub Stats & Activity</strong>
 
 <div align="center">
 
-⚡ GitHub Stats
+⚡ **GitHub Stats**
 <img src="https://github-readme-stats.vercel.app/api?username=sahilbiswas12-sky&show_icons=true&theme=radical" height="165" />
 
-🌐 Most Used Languages
+🌐 **Most Used Languages**
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbiswas12-sky&layout=compact&theme=radical" height="165" />
 
-🔥 Contribution Streak
+🔥 **Contribution Streak**
 <img src="https://streak-stats.demolab.com?user=sahilbiswas12-sky&theme=radical" alt="GitHub Streak" />
 
-🏆 GitHub Trophies
+🏆 **GitHub Trophies**
 <img src="https://github-profile-trophy.vercel.app/?username=sahilbiswas12-sky&theme=darkhub&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
-
 
 </div>
 
@@ -121,8 +136,13 @@ Tech Stack: Python, SpeechRecognition, pyttsx3, Web-scraping libraries
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilbiswas12-sky&theme=react-dark&hide_border=true&area=true" />
 </p>
 
+<br>
+<br>
+---
+<br>
+<br>
 
-📬 Connect with Me
+## <strong>📬 Connect with Me</strong>
 
 <p align="center">
 <a href="mailto:sahilbiswas890@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
