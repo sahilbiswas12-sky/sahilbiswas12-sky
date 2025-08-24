@@ -11,7 +11,7 @@
 </a>
 </p>
 
-<h1👨‍💻 About Me </h1?
+<h1👨‍💻 About Me </h1>
 
 🎓 Pursuing B.Tech in Computer Science and Design
 
