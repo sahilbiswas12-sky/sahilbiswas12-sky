@@ -45,9 +45,9 @@ A productivity-focused todo list application with enhanced task management, auth
 
 ---
 
-### 🤖 Jarvis – Python-based Virtual Assistant
+### 🤖 Jarvis – Virtual Assistant
 
-A smart virtual assistant built using Python and web technologies. Jarvis can automate tasks, answer queries, and perform various operations through voice commands and scripting.
+A smart virtual assistant Jarvis can automate tasks, answer queries, and perform various operations through voice commands and scripting.
 
 **Key Features:**
 
