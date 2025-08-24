@@ -29,6 +29,7 @@
 
 ✨ I enjoy solving real-world problems through clean and efficient code
 
+
 🚀 Projects
 
 📋 Momentum - Advanced Todo List Application
@@ -51,6 +52,7 @@ Features:
 
 Tech Stack: HTML5, CSS3, JavaScript, LocalStorage, CryptoJS, Chart.js
 
+
 🤖 Jarvis - Virtual Assistant
 
 A Python-based virtual assistant that performs tasks like opening applications, searching the web, telling time, and more, using voice commands.
@@ -66,6 +68,7 @@ Features:
 🗣️ Natural language processing for conversational responses
 
 Tech Stack: Python, SpeechRecognition, pyttsx3, Web-scraping libraries
+
 
 ⚡ Tech Stack
 
@@ -94,6 +97,7 @@ Tech Stack: Python, SpeechRecognition, pyttsx3, Web-scraping libraries
 <img src="https://skillicons.dev/icons?i=git,github,rest" />
 </p>
 
+
 📊 GitHub Stats & Activity
 
 <div align="center">
@@ -110,11 +114,13 @@ Tech Stack: Python, SpeechRecognition, pyttsx3, Web-scraping libraries
 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=sahilbiswas12-sky&theme=darkhub&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
 
+
 </div>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilbiswas12-sky&theme=react-dark&hide_border=true&area=true" />
 </p>
+
 
 📬 Connect with Me
 
