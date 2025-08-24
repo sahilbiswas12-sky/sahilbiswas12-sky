@@ -12,7 +12,6 @@
 </p>
 
 👨‍💻 About Me
-
 🎓 Pursuing B.Tech in Computer Science and Design
 
 💼 Skilled in Frontend (HTML, CSS, JavaScript, React, Bootstrap, Tailwind)
@@ -30,9 +29,7 @@
 ✨ I enjoy solving real-world problems through clean and efficient code
 
 🚀 Projects
-
 📋 Momentum - Advanced Todo List Application
-
 A sophisticated todo application with secure authentication, comprehensive task management, multiple viewing options, and productivity analytics.
 
 Features:
@@ -52,7 +49,6 @@ Features:
 Tech Stack: HTML5, CSS3, JavaScript, LocalStorage, CryptoJS, Chart.js
 
 🤖 Jarvis - Virtual Assistant
-
 A Python-based virtual assistant that performs tasks like opening applications, searching the web, telling time, and more, using voice commands.
 
 Features:
@@ -68,7 +64,6 @@ Features:
 Tech Stack: Python, SpeechRecognition, pyttsx3, Web-scraping libraries
 
 ⚡ Tech Stack
-
 🚀 Languages
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,java,python,c,js,ts,php" />
@@ -95,7 +90,6 @@ Tech Stack: Python, SpeechRecognition, pyttsx3, Web-scraping libraries
 </p>
 
 📊 GitHub Stats & Activity
-
 <div align="center">
 
 ⚡ GitHub Stats
@@ -117,7 +111,6 @@ Tech Stack: Python, SpeechRecognition, pyttsx3, Web-scraping libraries
 </p>
 
 📬 Connect with Me
-
 <p align="center">
 <a href="mailto:sahilbiswas890@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://linkedin.com/in/sahil-biswas-827337287" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
