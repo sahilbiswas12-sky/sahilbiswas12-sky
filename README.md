@@ -45,6 +45,23 @@ A productivity-focused todo list application with enhanced task management, auth
 
 ---
 
+### 🌐 Personal Portfolio Website
+
+A modern, responsive, and interactive portfolio website to showcase my skills, projects, and professional journey.
+
+**Key Features:**
+
+- 🧑‍💻 Fully responsive design with smooth animations  
+- 🧭 Easy navigation with a clean and minimal layout  
+- 🔗 Integrated project showcase with GitHub links  
+- 📧 Contact form with email functionality  
+- 🎨 Dark/Light mode toggle  
+- 📱 Mobile-first design using modern CSS frameworks  
+
+**Tech Stack:** `React.js`, `Tailwind CSS`, `EmailJS`, `Framer Motion`
+
+---
+
 ### 🤖 Jarvis – Virtual Assistant
 
 A smart virtual assistant Jarvis can automate tasks, answer queries, and perform various operations through voice commands and scripting.
@@ -59,7 +76,6 @@ A smart virtual assistant Jarvis can automate tasks, answer queries, and perform
 - 🗣️ Conversational replies powered by NLP
 
 **Tech Stack:** `HTML5`, `CSS3`, `JavaScript`, `SpeechRecognition`, `Web Scraping`
-
 
 ---
 
