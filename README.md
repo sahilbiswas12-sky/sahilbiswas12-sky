@@ -53,14 +53,33 @@
   <img src="https://skillicons.dev/icons?i=git,github,rest" />
 </p>
 
-### 🛡️ Cybersecurity Skills  
+### 🛡️ Cybersecurity Skills & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=linux" />
-  <img src="https://skillicons.dev/icons?i=bash" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  
+  <!-- Core Cybersecurity Tools -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="48" height="48" alt="Kali Linux" />
+  <img src="https://nmap.org/images/nmap-logo.svg" width="48" height="48" alt="Nmap" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Wireshark_icon.svg" width="48" height="48" alt="Wireshark" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Tor_Browser_icon.svg" width="48" height="48" alt="Tor Browser" />
+
+  <!-- Operating Systems -->
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+  <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" width="48" height="48" alt="Ubuntu" />
+
+  <!-- Programming & Scripting -->
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Shell Scripting" />
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
+
+  <!-- Cloud & DevOps -->
+  <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud Platform" />
+  <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
 </p>
+
 
 
 ---
