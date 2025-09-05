@@ -55,12 +55,14 @@
 
 ### 🛡️ Cybersecurity Skills  
 <p>
-  <img src="https://img.shields.io/badge/Network%20Security-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Penetration%20Testing-6DB33F?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP%20Top%2010-FF4C00?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cryptography-1E90FF?style=for-the-badge&logo=letsencrypt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux%20Security-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Incident%20Response-2C2D72?style=for-the-badge&logo=cyberdefense&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=bash" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" width="48" height="48" alt="OWASP" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="48" height="48" alt="Kali Linux" />
+  <img src="https://www.vectorlogo.zone/logos/gnupg/gnupg-icon.svg" width="48" height="48" alt="Cryptography/GnuPG" />
+  <img src="https://www.svgrepo.com/show/331370/network.svg" width="48" height="48" alt="Network Security" />
 </p>
 
 ---
