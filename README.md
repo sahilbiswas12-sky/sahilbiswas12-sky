@@ -57,9 +57,6 @@
 <p>
   <!-- Core Cybersecurity Tools -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="48" height="48" alt="Kali Linux" />
-  <img src="https://nmap.org/images/nmap-logo.svg" width="48" height="48" alt="Nmap" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Wireshark_icon.svg" width="48" height="48" alt="Wireshark" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Tor_Browser_icon.svg" width="48" height="48" alt="Tor Browser" />
 
   <!-- Operating Systems -->
   <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
