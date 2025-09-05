@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sahil Biswas</h1>
-<h3 align="center">🚀 Full Stack Web Developer | Front-end Developer | MERN Stack Practitioner</h3>
+<h3 align="center">🚀 Full Stack Web Developer | 🛡️ Cyber Security Enthusiast | ⚡ MERN Stack Developer | 🔧 Git & GitHub | 🎓 B.Tech in Computer Science & Design | 📚 Ex–Web Dev Trainee – Internshala Trainings | 🤖 AI & ML Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1abc9c&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Front-end+Developer;MERN+Stack+Practitioner;Always+Learning+New+Techs;Solving+Real-World+Problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1abc9c&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Cyber+Security+Enthusiast;MERN+Stack+Developer;Always+Learning+New+Techs;Solving+Real-World+Problems;AI+%26+ML+Explorer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 - 🖥️ Experienced with Backend: **PHP, Node.js, Express.js**  
 - 🗄️ Comfortable working with Databases: **MySQL, MongoDB**  
 - 🔧 Strong foundation in **C, C++, Java, Python**  
-- 🌱 Currently learning: **MERN Stack**, **System Design**  
+- 🌱 Currently learning: **MERN Stack**, **System Design**, **Cybersecurity & AI/ML**  
 - 🤝 Open to collaborations on impactful and innovative projects  
 - ✨ Passionate about building solutions to real-world problems with clean and efficient code  
 
@@ -72,6 +72,8 @@
 </p>
 
 ---
+
+## 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&to=sahilbiswas890@gmail.com" target="_blank">
