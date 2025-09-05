@@ -59,11 +59,13 @@
   <img src="https://skillicons.dev/icons?i=bash" />
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" width="48" height="48" alt="OWASP" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="48" height="48" alt="Kali Linux" />
-  <img src="https://www.vectorlogo.zone/logos/gnupg/gnupg-icon.svg" width="48" height="48" alt="Cryptography/GnuPG" />
-  <img src="https://www.svgrepo.com/show/331370/network.svg" width="48" height="48" alt="Network Security" />
+
+  <img src="https://img.shields.io/badge/OWASP-black?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/GnuPG-0093DD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network%20Security-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white" />
 </p>
+
 
 ---
 
